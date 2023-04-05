@@ -1,5 +1,4 @@
 # Competitive_Programming
-# Stuffs related to CP
 
 Stuffs related to CP
 
